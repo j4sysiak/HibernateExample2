@@ -41,7 +41,7 @@
 		<!-- Set the current session context -->
 		<property name="current_session_context_class">thread</property>
 		
-		<mapping resource="employee.hbm.xml"/>
+<!-- 		<mapping resource="employee.hbm.xml"/> -->
 
 		<mapping class="pl.jaceksysiak.Employee" />
 

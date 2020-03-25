@@ -15,9 +15,9 @@ public class MainClass {
 		
         
         Employee user = new Employee();
-        user.setId(102);
-		user.setUsername("jsysiak");
-		user.setPassword("test");
+        user.setId(103);
+		user.setUsername("dddddddd");
+		user.setPassword("dddddddddddddd");
 
 		session.persist(user);
 		transaction.commit();
